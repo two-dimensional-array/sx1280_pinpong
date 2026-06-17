@@ -1,0 +1,3 @@
+[submodule "Drivers/SX128X"]
+	path = Drivers/SX128X
+	url = https://github.com/Lora-net/SWDR005.git
